@@ -1,5 +1,7 @@
 # GDC-Download-Tool
+
 BASIC STEPS:
+
 1.Visit the GDC Portal and log in to your account.
 
 2.Navigate to the files or dataset of interest, subset them as needed, and add them to the cart.
